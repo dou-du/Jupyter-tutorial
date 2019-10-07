@@ -2,4 +2,4 @@ channels:
   - conda-forge
 dependencies:
   - appmode
-  - matplotlib 
+  - matplotlib==3.0.3 
