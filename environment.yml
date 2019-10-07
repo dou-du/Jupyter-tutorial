@@ -2,5 +2,5 @@ channels:
   - conda-forge
 dependencies:
   - appmode
-  - matplotlib==3.0.3 
-  - ipywidgets==7.5.1
+  - matplotlib  
+  - ipywidgets 
