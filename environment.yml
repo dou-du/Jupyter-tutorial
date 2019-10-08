@@ -4,3 +4,4 @@ dependencies:
   - appmode
   - matplotlib  
   - ipywidgets 
+  - ipympl
