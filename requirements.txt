@@ -1,5 +1,5 @@
 numpy
-ipywidgets
+ipywidgets==7.5.2
 ipympl
 appmode
 IPython 
