@@ -1,3 +1,3 @@
 # OSSCAR
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dou-du/OSSCAR/app/widgets_docs.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dou-du/OSSCAR/lab?urlpath=%2Fapps%2FJupyterNotebook_tutorial.ipynb)
